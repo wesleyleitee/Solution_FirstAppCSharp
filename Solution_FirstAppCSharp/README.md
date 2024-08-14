@@ -1,0 +1,1 @@
+Utilizando README em projeto VS com github.
