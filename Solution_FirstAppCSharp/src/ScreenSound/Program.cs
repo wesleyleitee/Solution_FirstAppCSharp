@@ -27,6 +27,7 @@ string firstName = "Wesley";
 string lastName = "Leite";
 string positioned = string.Format("Here is {0} {1}", firstName, lastName);
 
+Console.WriteLine(verbatim);
 Console.WriteLine(interpolation);
 Example();
 
