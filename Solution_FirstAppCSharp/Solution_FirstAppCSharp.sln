@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F4A9CD06-5563-4387-BA35-B267ED3CCA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "src\ScreenSound\ScreenSound.csproj", "{B5A186D6-17D7-4CC0-BCA1-EF42A9CF7AF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleStrings", "src\ScreenSound\ExampleStrings.csproj", "{B5A186D6-17D7-4CC0-BCA1-EF42A9CF7AF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
