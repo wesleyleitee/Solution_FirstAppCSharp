@@ -5,7 +5,7 @@
 string camelCase = "Example of message";
 
 // Pascal Case
-// For example, used for functions
+// For example, used for functions, first letter uppercase
 void Example()
 {
     Console.WriteLine("Example");
